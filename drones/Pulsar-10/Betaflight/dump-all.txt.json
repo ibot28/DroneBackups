@@ -1,0 +1,9 @@
+{
+  "firmware": "Betaflight",
+  "version": "4.5.1",
+  "board": "api 1",
+  "port": "COM6",
+  "drone_id": "Pulsar 10",
+  "timestamp": "2026-09-21T05:34:43+00:00",
+  "dump_type": "dump all"
+}

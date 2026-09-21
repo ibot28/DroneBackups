@@ -1,0 +1,78 @@
+# version
+# Betaflight / STM32F405 (S405) 4.5.1 Dec  2 2024 / 07:26:34 (77d01ba3b) MSP API: 1.46
+# config rev: cb1d3ac
+
+# start the command batch
+batch start
+
+board_name SPEEDYBEEF405V4
+manufacturer_id SPBE
+mcu_id 005700463433510f32303838
+signature 
+
+# name: Big 10 INCH
+
+# resources
+resource BEEPER 1 C15
+resource MOTOR 1 B06
+resource MOTOR 2 B07
+resource MOTOR 3 B00
+resource MOTOR 4 B01
+resource MOTOR 5 C08
+resource MOTOR 6 C09
+resource MOTOR 7 B10
+resource MOTOR 8 A15
+resource SERVO 1 NONE
+resource SERVO 2 NONE
+resource SERVO 3 NONE
+resource SERVO 4 NONE
+resource SERVO 5 NONE
+resource SERVO 6 NONE
+resource SERVO 7 NONE
+resource SERVO 8 NONE
+resource LED_STRIP 1 A08
+resource SERIAL_TX 1 A09
+resource SERIAL_TX 2 A02
+resource SERIAL_TX 3 C10
+resource SERIAL_TX 4 A00
+resource SERIAL_TX 5 NONE
+resource SERIAL_TX 6 C06
+resource SERIAL_TX 7 NONE
+resource SERIAL_TX 8 NONE
+resource SERIAL_TX 9 NONE
+resource SERIAL_TX 10 NONE
+resource SERIAL_RX 1 A10
+resource SERIAL_RX 2 A03
+resource SERIAL_RX 3 C11
+resource SERIAL_RX 4 A01
+resource SERIAL_RX 5 D02
+resource SERIAL_RX 6 C07
+resource SERIAL_RX 7 NONE
+resource SERIAL_RX 8 NONE
+resource SERIAL_RX 9 NONE
+resource SERIAL_RX 10 NONE
+resource INVERTER 1 NONE
+resource INVERTER 2 NONE
+resource INVERTER 3 NONE
+resource INVERTER 4 NONE
+resource INVERTER 5 NONE
+resource INVERTER 6 NONE
+resource INVERTER 7 NONE
+resource INVERTER 8 NONE
+resource INVERTER 9 NONE
+resource INVERTER 10 NONE
+resource INVERTER 11 NONE
+resource SOFTSERIAL_TX 1 NONE
+resource SOFTSERIAL_TX 2 NONE
+resource SOFTSERIAL_RX 1 NONE
+resource SOFTSERIAL_RX 2 NONE
+resource I2C_SCL 1 B08
+resource I2C_SCL 2 NONE
+resource I2C_SCL 3 NONE
+resource I2C_SDA 1 B09
+resource I2C_SDA 2 NONE
+resource I2C_SDA 3 NONE
+resource LED 1 C13
+resource LED 2 NONE
+resource LED 3 NONE
+reso
