@@ -1,0 +1,11 @@
+{
+  "firmware": "Betaflight",
+  "version": "2025.12.2",
+  "board": "STM32F7X2 (F722)",
+  "port": "COM7",
+  "drone_id": "unnamed",
+  "timestamp": "2026-09-23T03:51:58+00:00",
+  "dump_type": "dump all",
+  "noop": false,
+  "content_sha": "a084f3697b7f59e1b1cb9bddcb1de651b3d8532f4b386121b8c4fd3b3b48c527"
+}
