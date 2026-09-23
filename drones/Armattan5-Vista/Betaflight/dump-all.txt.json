@@ -3,7 +3,7 @@
   "version": "2025.12.2",
   "board": "STM32F7X2 (F722)",
   "port": "COM7",
-  "drone_id": "unnamed",
+  "drone_id": "Armattan5-Vista",
   "timestamp": "2026-09-23T03:51:58+00:00",
   "dump_type": "dump all",
   "noop": false,
